@@ -9,6 +9,7 @@ import connectDB from './db/index.js';
 
 connectDB()
 
+<<<<<<< HEAD
 
 
 
@@ -33,6 +34,8 @@ connectDB()
 //     }
 // })
 
+=======
+>>>>>>> b73be04b5ff00bf717f9a7e185620b154b9b3687
 const app = express();
 
 app.get('/', (req, res)=>{
